@@ -1,7 +1,7 @@
 # Scientific-Visualization-Magistrale
 Project of Scientific Visualization, Master degree
 
-# How to start:
+# How to start
 First, set up the virtual environment in python : 
   ```python -m venv .venv --prompt NAME_OF_THE_ENVIRONMENT```
   
