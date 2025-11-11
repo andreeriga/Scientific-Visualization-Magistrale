@@ -1,0 +1,42 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 8256 entries, 0 to 8255
+Data columns (total 35 columns):
+ #   Column                 Non-Null Count  Dtype 
+---  ------                 --------------  ----- 
+ 0   ID                     8256 non-null   int64 
+ 1   GENDER                 8256 non-null   object
+ 2   AGE                    8256 non-null   int64 
+ 3   ETHINICITY             8256 non-null   object
+ 4   RACE                   8256 non-null   object
+ 5   BIOPSY_SITE            8256 non-null   object
+ 6   LOCATION_ORIGIN        8256 non-null   object
+ 7   GRADE                  8256 non-null   int64 
+ 8   MORPHOLOGY             8256 non-null   object
+ 9   HISTOLOGY              8256 non-null   object
+ 10  RECUURENCY             8256 non-null   object
+ 11  PRIOR_TREAT            8256 non-null   object
+ 12  THERAPHY               8256 non-null   object
+ 13  TRET_TYPE              8256 non-null   object
+ 14  TUMOR_TYPE             8256 non-null   object
+ 15  SEIZURE                7824 non-null   object
+ 16  VOMITING               8256 non-null   object
+ 17  HEADACHE               7568 non-null   object
+ 18  HEAD_GROWTH            8256 non-null   object
+ 19  MOTOR_MOVE             7472 non-null   object
+ 20  HEARING_IMPAIR         8256 non-null   object
+ 21  MENTAL_STATUS          7552 non-null   object
+ 22  MEMORY_LOSS            8256 non-null   object
+ 23  HYPER_TENSION          8256 non-null   object
+ 24  VISUAL_STATUS          7488 non-null   object
+ 25  BEHAVIOUR_CHANGE       8256 non-null   object
+ 26  SENSORY_CHANGE         7456 non-null   object
+ 27  DIABETES               8256 non-null   object
+ 28  ASTHMA_HISTORY         6592 non-null   object
+ 29  FAMILY_CANCER_HISTORY  6864 non-null   object
+ 30  FAM_BT_HISTORY         6928 non-null   object
+ 31  SMOK_HISTORY           8256 non-null   object
+ 32  WALKING_CHANGE         8256 non-null   object
+ 33  ALCOHOL_HISTORY        6448 non-null   object
+ 34  FIRST_SYMPTOM          7392 non-null   object
+dtypes: int64(3), object(32)
+memory usage: 2.2+ MB

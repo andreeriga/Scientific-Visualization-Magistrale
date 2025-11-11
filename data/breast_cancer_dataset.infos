@@ -1,0 +1,23 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 4024 entries, 0 to 4023
+Data columns (total 16 columns):
+ #   Column                  Non-Null Count  Dtype 
+---  ------                  --------------  ----- 
+ 0   Age                     4024 non-null   int64 
+ 1   Race                    4024 non-null   object
+ 2   Marital Status          4024 non-null   object
+ 3   T Stage                 4024 non-null   object
+ 4   N Stage                 4024 non-null   object
+ 5   6th Stage               4024 non-null   object
+ 6   differentiate           4024 non-null   object
+ 7   Grade                   4024 non-null   object
+ 8   A Stage                 4024 non-null   object
+ 9   Tumor Size              4024 non-null   int64 
+ 10  Estrogen Status         4024 non-null   object
+ 11  Progesterone Status     4024 non-null   object
+ 12  Regional Node Examined  4024 non-null   int64 
+ 13  Reginol Node Positive   4024 non-null   int64 
+ 14  Survival Months         4024 non-null   int64 
+ 15  Status                  4024 non-null   object
+dtypes: int64(5), object(11)
+memory usage: 503.1+ KB

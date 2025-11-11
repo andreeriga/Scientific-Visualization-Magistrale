@@ -1,0 +1,24 @@
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 212691 entries, 0 to 212690
+Data columns (total 17 columns):
+ #   Column               Non-Null Count   Dtype  
+---  ------               --------------   -----  
+ 0   Patient_ID           212691 non-null  int64  
+ 1   Age                  212691 non-null  int64  
+ 2   Gender               212691 non-null  object 
+ 3   Country              212691 non-null  object 
+ 4   Ethnicity            212691 non-null  object 
+ 5   Family_History       212691 non-null  object 
+ 6   Radiation_Exposure   212691 non-null  object 
+ 7   Iodine_Deficiency    212691 non-null  object 
+ 8   Smoking              212691 non-null  object 
+ 9   Obesity              212691 non-null  object 
+ 10  Diabetes             212691 non-null  object 
+ 11  TSH_Level            212691 non-null  float64
+ 12  T3_Level             212691 non-null  float64
+ 13  T4_Level             212691 non-null  float64
+ 14  Nodule_Size          212691 non-null  float64
+ 15  Thyroid_Cancer_Risk  212691 non-null  object 
+ 16  Diagnosis            212691 non-null  object 
+dtypes: float64(4), int64(2), object(11)
+memory usage: 27.6+ MB
