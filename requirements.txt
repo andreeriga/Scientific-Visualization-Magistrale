@@ -1,3 +1,7 @@
-matiplotlib
+matplotlib
 seaborn
 plotnine
+pandas
+numpy
+geopandas
+adjustText
