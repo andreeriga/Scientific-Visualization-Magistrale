@@ -1,0 +1,251 @@
+Country,Tumor
+Guam,100
+Stati Uniti,66
+Jersey,57
+Maldive,54
+Lesotho,54
+Regno Unito,48
+Australia,46
+Cina,45
+Filippine,44
+Guyana,42
+Canada,42
+Brunei,42
+Irlanda,42
+Martinica,39
+Trinidad e Tobago,38
+Barbados,37
+Giamaica,35
+Singapore,35
+Figi,34
+Nuova Zelanda,29
+Malta,26
+Portorico,26
+Qatar,24
+Cipro,23
+Sant’Elena,23
+Etiopia,23
+Libano,23
+Emirati Arabi Uniti,23
+Sri Lanka,23
+Islanda,22
+Bahrein,21
+Somalia,21
+Mauritius,21
+Namibia,20
+Malaysia,18
+Sudafrica,18
+Myanmar (Birmania),17
+Kosovo,17
+Kuwait,17
+Kenya,17
+Nepal,17
+Ghana,16
+Hong Kong,16
+Nigeria,16
+Sudan,16
+Zimbabwe,15
+Oman,15
+Giordania,15
+Zambia,14
+India,14
+Macedonia del Nord,13
+Pakistan,13
+Mongolia,12
+Corea del Sud,12
+Arabia Saudita,11
+Palestina,11
+Albania,11
+Uganda,10
+Georgia,10
+Grecia,10
+Iraq,9
+Cambogia,9
+Bangladesh,9
+Egitto,8
+Svezia,8
+Estonia,8
+Armenia,7
+Norvegia,7
+Croazia,7
+Taiwan,7
+Israele,7
+Slovenia,7
+Tanzania,6
+Serbia,6
+Lettonia,6
+Danimarca,6
+Lituania,6
+Thailandia,6
+Portogallo,5
+Romania,5
+Bulgaria,5
+Svizzera,5
+Kirghizistan,5
+Yemen,5
+Libia,5
+Finlandia,5
+Azerbaigian,5
+Tunisia,5
+Vietnam,4
+Bosnia ed Erzegovina,4
+Paesi Bassi,4
+Belgio,4
+Ungheria,4
+Slovacchia,4
+Marocco,4
+Austria,3
+Repubblica Dominicana,3
+Costa Rica,3
+Ecuador,3
+Algeria,3
+Polonia,3
+Turchia,3
+Italia,3
+Messico,2
+Germania,2
+Spagna,2
+Cechia,2
+Indonesia,2
+Iran,2
+Colombia,2
+Uzbekistan,2
+Cile,2
+Perù,2
+Francia,2
+Ucraina,2
+Kazakistan,1
+Bahamas,1
+Argentina,1
+Russia,1
+Brasile,1
+Giappone,1
+Malawi,1
+Bielorussia,< 1
+Afghanistan,
+Aruba,
+Kiribati,
+Angola,
+Territorio Britannico dell’Oceano Indiano,
+Saint Lucia,
+Liechtenstein,
+Isola di Man,
+Haiti,
+Honduras,
+Lussemburgo,
+Isole Heard e McDonald,
+Macao,
+Saint Martin,
+Guyana Francese,
+Monaco,
+Moldavia,
+Madagascar,
+Guatemala,
+Groenlandia,
+Isole Marshall,
+Grenada,
+Mali,
+Guinea Equatoriale,
+Guinea-Bissau,
+Montenegro,
+Gambia,
+Isole Marianne Settentrionali,
+Mozambico,
+Mauritania,
+Montserrat,
+Guadalupa,
+Guinea,
+Gibilterra,
+Guernsey,
+Mayotte,
+Gabon,
+Nuova Caledonia,
+Niger,
+Isola Norfolk,
+Micronesia,
+Nicaragua,
+Niue,
+Isole Fær Øer,
+Isole Falkland (Isole Malvine),
+Sahara Occidentale,
+Nauru,
+Eritrea,
+Dominica,
+Gibuti,
+Panama,
+Isole Pitcairn,
+Isole Cayman,
+Isola Christmas,
+Palau,
+Papua Nuova Guinea,
+Curaçao,
+Cuba,
+Corea del Nord,
+Capo Verde,
+Paraguay,
+Comore,
+Polinesia Francese,
+Isole Cook,
+Riunione,
+Congo-Brazzaville,
+Congo - Kinshasa,
+Ruanda,
+Camerun,
+Costa d’Avorio,
+Senegal,
+Isole Cocos (Keeling),
+Georgia del Sud e Sandwich Australi,
+Repubblica Centrafricana,
+Svalbard e Jan Mayen,
+Isole Salomone,
+Sierra Leone,
+El Salvador,
+San Marino,
+Botswana,
+Saint-Pierre e Miquelon,
+Isola Bouvet,
+Sud Sudan,
+São Tomé e Príncipe,
+Suriname,
+Bhutan,
+Bolivia,
+Bermuda,
+Eswatini,
+Sint Maarten,
+Seychelles,
+Siria,
+Isole Turks e Caicos,
+Ciad,
+Togo,
+Belize,
+Tagikistan,
+Tokelau,
+Turkmenistan,
+Timor Est,
+Tonga,
+Saint-Barthélemy,
+Burkina Faso,
+Caraibi Olandesi,
+Tuvalu,
+Benin,
+Burundi,
+Antigua e Barbuda,
+Terre Australi Francesi,
+Isole Minori Esterne degli Stati Uniti,
+Uruguay,
+Antartide,
+Samoa Americane,
+Città del Vaticano,
+Saint Vincent e Grenadine,
+Venezuela,
+Isole Vergini Britanniche,
+Isole Vergini Americane,
+Andorra,
+Vanuatu,
+Wallis e Futuna,
+Samoa,
+Isole Åland,
+Anguilla,
+Liberia,
+Laos,
+Saint Kitts e Nevis,
